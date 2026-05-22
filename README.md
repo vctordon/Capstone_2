@@ -2,7 +2,7 @@
 
 #Capstone 2 - Sales Analysis 
  
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 The project analyzes sales data for the company EmporiUm, the goal is to evaluate business perfomance for the assigned territories. 
 During the analysis the languages used will be Python. The project will review trends in revenue, customer behaviors, and product performance.
@@ -17,13 +17,13 @@ The main goal of the project:
 - Providing marketing recommendations based on data finds
 
 
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
   ASSIGNED TERRITORIES 
 -Territory 1: Connecticut
 - Territory 2: New York
 
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 The project answers several business questions, including:
 
